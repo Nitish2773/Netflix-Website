@@ -6,5 +6,6 @@ the use of modern web development practices like Flexbox or CSS Grid for layout,
 
 https://movieswebsite.ccbp.tech/
 
-![Screenshot (25)](https://github.com/user-attachments/assets/8d90ff12-9dcb-4efd-a022-637203c8f966)
+![Screenshot (25)](https://github.com/user-attachments/assets/34e3e6c9-19b5-4bb5-99a8-9fc5d669c2c4)
+
 
